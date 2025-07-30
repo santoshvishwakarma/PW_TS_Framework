@@ -1,0 +1,23 @@
+{
+  "name": "pw_ts_framework-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santoshvishwakarma/PW_TS_Framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/santoshvishwakarma/PW_TS_Framework/issues"
+  },
+  "homepage": "https://github.com/santoshvishwakarma/PW_TS_Framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.1.0"
+  }
+}
